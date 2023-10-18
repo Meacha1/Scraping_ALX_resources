@@ -4,7 +4,7 @@ const puppeteer = require('puppeteer');
   // Launch a headless Chrome browser
   const browser = await puppeteer.launch({
     headless: false,
-    defaultViewport: { width: 1920, height: 1080 }
+    defaultViewport: { width: 1280, height: 720 },
   });
 
   // Create a new page in the browser
