@@ -11,7 +11,7 @@ This is a simple Node.js script that automates downloading learning resources fr
 1. Clone this repository to your local machine.
 2. Install dependencies using npm:
 3. Configure the script by editing `config.js`:
-- Set your ALX intranet login credentials.
+    - Set your ALX intranet login credentials.
 4. Run the script:
 
 The script will log in, navigate to the specified project, and download the learning resources as PDF files in the project directory.
